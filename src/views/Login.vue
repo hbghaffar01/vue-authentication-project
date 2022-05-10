@@ -66,7 +66,7 @@ export default {
 	min-height: 100vh;
 }
 form {
-	flex: 1 1 0%;
+	flex: 1 1.1 0%;
 	padding: 8rem 1rem 1rem;
 }
 form.register {
